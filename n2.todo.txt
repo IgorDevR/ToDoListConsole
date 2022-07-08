@@ -1,0 +1,108 @@
+1
+manualFill 1
+this is manual Fill 1
+5
+100
+0
+4
+12
+31
+2
+manualFill 2
+this is manual Fill 2
+8
+100
+0
+1
+12
+32
+3
+manualFill 3
+this is manual Fill 3
+11
+100
+0
+3
+12
+33
+4
+manualFill 4
+this is manual Fill 4
+2
+100
+0
+7
+12
+34
+5
+manualFill 5 
+this is manual Fill 5
+32
+100
+0
+9
+12
+35
+6
+manualFill 6 
+this is manual Fill 6
+44
+100
+0
+7
+12
+36
+7
+manualFill 7 END MONTH __
+this is manual Fill 7
+76
+100
+0
+31
+12
+37
+8
+manualFill 8 NEW MONTH __
+this is manual Fill 8
+29
+100
+1
+1
+12
+38
+9
+manualFill 9
+this is manual Fill 9
+51
+100
+1
+15
+12
+39
+10
+manualFill 10
+this is manual Fil l0
+42
+100
+0
+16
+12
+40
+11
+11
+22
+12
+100
+0
+2
+12
+41
+12
+11
+22
+13
+100
+1
+6
+12
+42

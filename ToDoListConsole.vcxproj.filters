@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Model">
+      <UniqueIdentifier>{b33c8686-e95e-4d46-b8fe-cb38eb6fb21c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Text">
+      <UniqueIdentifier>{ab0ec611-5902-493d-b5ab-3ac504600ad1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Converters">
+      <UniqueIdentifier>{8f149a5f-6e48-4b18-9e36-fecb08a5972f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Checking">
+      <UniqueIdentifier>{ac3b4fbc-6441-4b05-99ba-11c4a25ec5eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="input">
+      <UniqueIdentifier>{3f94397d-5076-4cee-bde7-5892babdaa65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PrintDisplay">
+      <UniqueIdentifier>{ae10f888-c715-46dd-8d60-d8c4ffe7ede0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Actions">
+      <UniqueIdentifier>{03175d5e-0f86-4c58-84f7-0f21238d8587}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Menu">
+      <UniqueIdentifier>{b9ec601c-e791-4e5f-b22d-6962e676dca9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ToDoListModel.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ToDoListModel.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.cpp">
+      <Filter>Text</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchMenu.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="RedactionMenu.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="ShowMenu.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="PrintScreen.cpp">
+      <Filter>PrintDisplay</Filter>
+    </ClCompile>
+    <ClCompile Include="Converters.cpp">
+      <Filter>Converters</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckCorrect.cpp">
+      <Filter>Checking</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>input</Filter>
+    </ClCompile>
+    <ClCompile Include="CreateOrEditRequestInput.cpp">
+      <Filter>input</Filter>
+    </ClCompile>
+    <ClCompile Include="Redaction_ToDoList.cpp">
+      <Filter>Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchForParameters.cpp">
+      <Filter>Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="Save_Load.cpp">
+      <Filter>Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="ManualFillForDebug.cpp">
+      <Filter>Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="ShowToDoListForPeriod.cpp">
+      <Filter>Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort.cpp">
+      <Filter>Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="Enum.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+</Project>
