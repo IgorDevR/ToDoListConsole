@@ -134,7 +134,6 @@
   <ItemGroup>
     <ClCompile Include="CheckCorrect.cpp" />
     <ClCompile Include="Converters.cpp" />
-    <ClCompile Include="Enum.cpp" />
     <ClCompile Include="RedactionMenu.cpp" />
     <ClCompile Include="CreateOrEditRequestInput.cpp" />
     <ClCompile Include="ManualFillForDebug.cpp" />
